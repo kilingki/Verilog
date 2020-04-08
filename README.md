@@ -12,4 +12,4 @@
     원 Model은 Pytorch로 구현하였으며, MNIST Dataset의 Testset에 대해 94%의 Accuracy를 갖습니다.
     
 
-    자세한 설명은 PDF에 있습니다.
+자세한 설명은 PDF에 있습니다.
