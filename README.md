@@ -3,7 +3,7 @@
 ## 1. Pipelined MIPS CPU
 
     David A. Patterson, John L. Hennessy의 Computer Organization and Design에 
-    설명되어 있는 CPU 구조의 Verilog 구현입니다.
+    설명되어 있는 CPU 구조에 몇 가지 기법들을 추가한 Verilog 구현입니다.
   
   
 ## 2. MNIST CNN
